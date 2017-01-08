@@ -1,2 +1,2 @@
-FROM ubuntu
+FROM debian:jessie
 WORKDIR /code
